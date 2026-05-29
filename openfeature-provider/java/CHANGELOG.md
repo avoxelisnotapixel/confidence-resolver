@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.1](https://github.com/spotify/confidence-resolver/compare/openfeature-provider-java-v0.15.0...openfeature-provider-java-v0.15.1) (2026-05-29)
+
+
+### Bug Fixes
+
+* **java:** drop pending poll on local provider shutdown ([#426](https://github.com/spotify/confidence-resolver/issues/426)) ([2d13eff](https://github.com/spotify/confidence-resolver/commit/2d13effa833e7895ba5a1780aeb227f0d18b0ec1))
+
 ## [0.15.0](https://github.com/spotify/confidence-resolver/compare/openfeature-provider-java-v0.14.8...openfeature-provider-java-v0.15.0) (2026-05-28)
 
 
